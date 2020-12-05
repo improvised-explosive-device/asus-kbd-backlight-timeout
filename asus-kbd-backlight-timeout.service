@@ -1,9 +1,0 @@
-[Unit]
-Description=Keyboard backlight timeout for Asus laptops. Default 10 seconds.
-
-[Service]
-Type=simple
-ExecStart=/home/dog/Documents/script/asus-kbd-backlight-timeout.sh
-
-[Install]
-WantedBy=multi-user.target
