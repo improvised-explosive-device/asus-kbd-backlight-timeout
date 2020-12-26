@@ -12,7 +12,7 @@ if [ $($kb_status) == 0 ];then dim=true;else dim=false; fi
 if [ $($ac_status) == 1 ];then ac=true;timeout=$timeout_ac; else ac=false;timeout=$timeout_bat; fi
 
 osd(){
-  printf -- '\rled: '"$($kb_status)"' timeout: '"$timeout"' ms AC:'"$($ac_status)"''
+  printf -- '\rled: '"$($kb_status)"' timeout: '"$timeout"' ms AC:'"$($ac_status)"' '
 }
 
 osd
