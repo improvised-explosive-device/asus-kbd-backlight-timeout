@@ -1,1 +1,3 @@
-i have no idea what im doing you should probably not use this alright
+dim keyboard after X seconds, Y seconds on AC power.
+
+cool stuff, slick stuff, neat stuff.
