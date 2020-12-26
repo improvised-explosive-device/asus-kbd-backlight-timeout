@@ -1,3 +1,3 @@
-dim keyboard after X seconds, Y seconds on AC power.
+dims keyboard after X seconds of inactivity, Y seconds if on AC power.
 
 cool stuff, slick stuff, neat stuff.
